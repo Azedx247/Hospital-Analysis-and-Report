@@ -2,10 +2,15 @@
 
 Hospital Admissions Dashboard — Data Analysis Report
 Dataset: 1,000 patient records
+
 Overall Readmission Rate: 21.0%
+
 Overall Recovery Rate: 69.8%
+
 Average Treatment Cost: 332,278
+
 Average Length of Stay: 7.46 days
+
 1. Key Findings
 Highest Monthly Readmission Rate
 October recorded the highest readmission rate at 26.74%, while August had the lowest at 14.29%.
