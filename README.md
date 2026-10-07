@@ -4,18 +4,16 @@ Hospital Admissions Dashboard — Data Analysis Report
 Dataset: 1,000 patient records
 
 Overall Readmission Rate: 21.0%
-
 Overall Recovery Rate: 69.8%
-
 Average Treatment Cost: 332,278
-
 Average Length of Stay: 7.46 days
 
 1. Key Findings
 Highest Monthly Readmission Rate
 October recorded the highest readmission rate at 26.74%, while August had the lowest at 14.29%.
 Insight: October's higher rate suggests a need to review patient volume, case mix, discharge procedures, and follow-up practices during the month.
-<img width="383" height="131" alt="Google" src="https://github.com/user-attachments/assets/58c6d5d5-96af-4559-8e4f-4df65e30832f" />
+<img width="634" height="345" alt="Power Bi capture" src="https://github.com/user-attachments/assets/676ceb7c-37bf-4024-abea-ae01c23da7fd" />
+
 
 Department with the Most Readmissions
 Cardiology recorded the highest number of readmissions with 38 cases and a 27.74% readmission rate. It accounted for 18.10% of all readmissions.
