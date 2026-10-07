@@ -1,5 +1,4 @@
 # Hospital-Analysis-and-Report
-Report and Analysis only
 
 Hospital Admissions Dashboard — Data Analysis Report
 Dataset: 1,000 patient records
